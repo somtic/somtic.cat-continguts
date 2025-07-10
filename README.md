@@ -16,10 +16,14 @@ Si vols suggerir un canvi o una millora en els textos del web, ho pots fer fàci
 - `home.md`: Pàgina principal
 - `qui-som.md`: Qui som
 - `serveis-tic.md`: Serveis TIC
+- `serveis-tic/somerpcrm.md`: Detall de SomERPCRM
+- `serveis-tic/sommarketing.md`: Detall de SomMarketing
+- `serveis-tic/somcloud.md`: Detall de SomCLOUD
 
 ## Notes
 
 - No cal modificar cap altre tipus de fitxer, només els continguts en Markdown.
+- Els enllaços interns entre serveis s'han actualitzat per utilitzar rutes relatives (ex: `./serveis-tic/somerpcrm.md`).
 - Si tens dubtes, pots obrir un issue en aquest repositori.
 
 Gràcies per ajudar a millorar els continguts de SomTIC.cat! 
